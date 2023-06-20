@@ -8,7 +8,7 @@ Développement d'un boitier d'appel par badges NFC et relié à l'API d'HYPERPLA
 - `pip install requests`
 - `pip install zeep`
 - `pip install configparser`
-- `pip install enum
+- `pip install enum`
 - `pip install RPi.GPIO`
 - `pip install mfrc522`
 - `pip install lcd_api`
